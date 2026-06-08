@@ -1,0 +1,10 @@
+pandas
+streamlit
+duckdb
+langchain
+langchain-google-genai
+pdfplumber
+chromadb
+plotly
+python-dotenv
+tiktoken

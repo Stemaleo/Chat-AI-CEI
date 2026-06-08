@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+venv/
+env/
+.env
+*.pyc
+.DS_Store
+*.duckdb
+*.duckdb.wal
+chroma_db/
+*.png
+*.jpg
+*.jpeg
+instructions.txt
+test_*.py
+list_models.py
