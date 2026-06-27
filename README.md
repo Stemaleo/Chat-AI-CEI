@@ -21,7 +21,6 @@ Chat AI CEI is an intelligent agent designed to securely query the official 2025
    - Successfully handles optical character recognition (OCR) anomalies like reversed vertical text and hidden blank columns to ensure 100% data fidelity.
 
 ## Technology Stack
-- **Agent Orchestrator**: LangChain & Google Gemini (gemini-flash-latest)
 - **Vector Database (RAG)**: ChromaDB (Local offline embedding model `all-MiniLM-L6-v2`)
 - **Relational Database**: DuckDB (Lightning-fast analytical queries)
 - **Web Interface**: Streamlit
